@@ -1,0 +1,13 @@
+C:\Users\utilizador.DESKTOP-1OKEGC5\source\repos\Ex_BookStore\Ex_BookStore\bin\Debug\netcoreapp3.1\Ex_BookStore.exe
+C:\Users\utilizador.DESKTOP-1OKEGC5\source\repos\Ex_BookStore\Ex_BookStore\bin\Debug\netcoreapp3.1\Ex_BookStore.deps.json
+C:\Users\utilizador.DESKTOP-1OKEGC5\source\repos\Ex_BookStore\Ex_BookStore\bin\Debug\netcoreapp3.1\Ex_BookStore.runtimeconfig.json
+C:\Users\utilizador.DESKTOP-1OKEGC5\source\repos\Ex_BookStore\Ex_BookStore\bin\Debug\netcoreapp3.1\Ex_BookStore.runtimeconfig.dev.json
+C:\Users\utilizador.DESKTOP-1OKEGC5\source\repos\Ex_BookStore\Ex_BookStore\bin\Debug\netcoreapp3.1\Ex_BookStore.dll
+C:\Users\utilizador.DESKTOP-1OKEGC5\source\repos\Ex_BookStore\Ex_BookStore\bin\Debug\netcoreapp3.1\Ex_BookStore.pdb
+C:\Users\utilizador.DESKTOP-1OKEGC5\source\repos\Ex_BookStore\Ex_BookStore\obj\Debug\netcoreapp3.1\Ex_BookStore.csprojAssemblyReference.cache
+C:\Users\utilizador.DESKTOP-1OKEGC5\source\repos\Ex_BookStore\Ex_BookStore\obj\Debug\netcoreapp3.1\Ex_BookStore.csproj.CoreCompileInputs.cache
+C:\Users\utilizador.DESKTOP-1OKEGC5\source\repos\Ex_BookStore\Ex_BookStore\obj\Debug\netcoreapp3.1\Ex_BookStore.AssemblyInfoInputs.cache
+C:\Users\utilizador.DESKTOP-1OKEGC5\source\repos\Ex_BookStore\Ex_BookStore\obj\Debug\netcoreapp3.1\Ex_BookStore.AssemblyInfo.cs
+C:\Users\utilizador.DESKTOP-1OKEGC5\source\repos\Ex_BookStore\Ex_BookStore\obj\Debug\netcoreapp3.1\Ex_BookStore.dll
+C:\Users\utilizador.DESKTOP-1OKEGC5\source\repos\Ex_BookStore\Ex_BookStore\obj\Debug\netcoreapp3.1\Ex_BookStore.pdb
+C:\Users\utilizador.DESKTOP-1OKEGC5\source\repos\Ex_BookStore\Ex_BookStore\obj\Debug\netcoreapp3.1\Ex_BookStore.genruntimeconfig.cache
