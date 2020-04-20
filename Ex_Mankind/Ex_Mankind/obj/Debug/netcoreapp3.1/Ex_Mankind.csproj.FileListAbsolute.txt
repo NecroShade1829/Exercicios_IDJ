@@ -1,0 +1,13 @@
+C:\Users\utilizador.DESKTOP-1OKEGC5\source\repos\Ex_Mankind\Ex_Mankind\bin\Debug\netcoreapp3.1\Ex_Mankind.exe
+C:\Users\utilizador.DESKTOP-1OKEGC5\source\repos\Ex_Mankind\Ex_Mankind\bin\Debug\netcoreapp3.1\Ex_Mankind.deps.json
+C:\Users\utilizador.DESKTOP-1OKEGC5\source\repos\Ex_Mankind\Ex_Mankind\bin\Debug\netcoreapp3.1\Ex_Mankind.runtimeconfig.json
+C:\Users\utilizador.DESKTOP-1OKEGC5\source\repos\Ex_Mankind\Ex_Mankind\bin\Debug\netcoreapp3.1\Ex_Mankind.runtimeconfig.dev.json
+C:\Users\utilizador.DESKTOP-1OKEGC5\source\repos\Ex_Mankind\Ex_Mankind\bin\Debug\netcoreapp3.1\Ex_Mankind.dll
+C:\Users\utilizador.DESKTOP-1OKEGC5\source\repos\Ex_Mankind\Ex_Mankind\bin\Debug\netcoreapp3.1\Ex_Mankind.pdb
+C:\Users\utilizador.DESKTOP-1OKEGC5\source\repos\Ex_Mankind\Ex_Mankind\obj\Debug\netcoreapp3.1\Ex_Mankind.csprojAssemblyReference.cache
+C:\Users\utilizador.DESKTOP-1OKEGC5\source\repos\Ex_Mankind\Ex_Mankind\obj\Debug\netcoreapp3.1\Ex_Mankind.csproj.CoreCompileInputs.cache
+C:\Users\utilizador.DESKTOP-1OKEGC5\source\repos\Ex_Mankind\Ex_Mankind\obj\Debug\netcoreapp3.1\Ex_Mankind.AssemblyInfoInputs.cache
+C:\Users\utilizador.DESKTOP-1OKEGC5\source\repos\Ex_Mankind\Ex_Mankind\obj\Debug\netcoreapp3.1\Ex_Mankind.AssemblyInfo.cs
+C:\Users\utilizador.DESKTOP-1OKEGC5\source\repos\Ex_Mankind\Ex_Mankind\obj\Debug\netcoreapp3.1\Ex_Mankind.dll
+C:\Users\utilizador.DESKTOP-1OKEGC5\source\repos\Ex_Mankind\Ex_Mankind\obj\Debug\netcoreapp3.1\Ex_Mankind.pdb
+C:\Users\utilizador.DESKTOP-1OKEGC5\source\repos\Ex_Mankind\Ex_Mankind\obj\Debug\netcoreapp3.1\Ex_Mankind.genruntimeconfig.cache
